@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm ... from Gijón, Spain <br><br>- 📚 I'm currently a student of Multiplatform Application Development<br>- ⚡ In my free time I play videogames and football (bad in both)</p>
+<p align="left">I'm Pelayo from Gijón, Spain <br><br>- 📚 I'm currently a student of Multiplatform Application Development<br>- ⚡ In my free time I play videogames and football (bad in both)</p>
 
 ###
 
